@@ -1,5 +1,5 @@
-
-  [
+{
+  "user": [
     {
       "id": "ehfaz_siddiquee",
       "name": "Ehfaz Siddiquee",
@@ -46,3 +46,4 @@
       "role": "user"
     }
   ]
+}
