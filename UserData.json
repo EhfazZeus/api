@@ -1,0 +1,49 @@
+{
+  "user": [
+    {
+      "id": "ehfaz_siddiquee",
+      "name": "Ehfaz Siddiquee",
+      "password": "123",
+      "email": "ehfazsiddiquee@gmail.com",
+      "country": "Bangladesh",
+      "gender": "male",
+      "role": "admin"
+    },
+    {
+      "id": "shaddho",
+      "name": "Shaddho ABC",
+      "password": "123",
+      "email": "shaddho@gmail.com",
+      "country": "usa",
+      "gender": "female",
+      "role": "company"
+    },
+    {
+      "id": "abc",
+      "name": "ABC",
+      "password": "123",
+      "email": "abc@gmail.com",
+      "country": "Bangladesh",
+      "gender": "male",
+      "role": "user"
+    },
+    {
+      "id": "zeus",
+      "name": "ZEUS",
+      "password": "123",
+      "email": "ehfazsiddiquee123@gmail.com",
+      "country": "Bangladesh",
+      "gender": "male",
+      "role": "company"
+    },
+    {
+      "id": "vhaiyya",
+      "name": "Vhaiyya",
+      "password": "123",
+      "email": "vhaiyya@gmail.com",
+      "country": "Bangladesh",
+      "gender": "company",
+      "role": "user"
+    }
+  ]
+}
