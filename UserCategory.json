@@ -1,0 +1,102 @@
+[
+    {
+      "id": "1",
+      "name": "Tutor",
+      "img": "https://i.ibb.co/9rNFdD7/Tutor.png"
+    },
+    {
+      "id": "2",
+      "name": "Handyman",
+      "img": "https://i.ibb.co/zXYXgg1/Handyman.png"
+    },
+    {
+      "id": "3",
+      "name": "Pest Control",
+      "img": "https://i.ibb.co/VNpdCnh/Pest-Control.png"
+    },
+    {
+      "id": "4",
+      "name": "House Cleaner",
+      "img": "https://i.ibb.co/gTdKxqp/House-Cleaner.png"
+    },
+    {
+      "id": "5",
+      "name": "Landscaper",
+      "img": "https://i.ibb.co/HzK46mn/Landscaper.png"
+    },
+    {
+      "id": "6",
+      "name": "Carpenter",
+      "img": "https://i.ibb.co/02FFqnQ/Carpenter.png"
+    },
+    {
+      "id": "7",
+      "name": "Plumber",
+      "img": "https://i.ibb.co/XJ0j7SF/Plumber.png"
+    },
+    {
+      "id": "8",
+      "name": "Electrician",
+      "img": "https://i.ibb.co/0n0kFdD/Electrician.png"
+    },
+    {
+      "id": "9",
+      "name": "Painter",
+      "img": "https://i.ibb.co/qdHhYVc/Painter.png"
+    },
+    {
+      "id": "10",
+      "name": "Roofing Contractor",
+      "img": "https://i.ibb.co/Zc1L4YJ/Roofing-Contractor.png"
+    },
+    {
+      "id": "11",
+      "name": "HVAC Contractor",
+      "img": "https://i.ibb.co/1KdwJ2v/HVAC-Contractor.png"
+    },
+    {
+      "id": "12",
+      "name": "Car Mechanic",
+      "img": "https://i.ibb.co/72L7NjK/Car-Mechanic.png"
+    },
+    {
+      "id": "13",
+      "name": "Gardener",
+      "img": "https://i.ibb.co/w4HTSp2/Gardener.png"
+    },
+    {
+      "id": "14",
+      "name": "Interior Designer",
+      "img": "https://i.ibb.co/6b9NwxD/Interior-Designer.png"
+    },
+    {
+      "id": "15",
+      "name": "Exterminator",
+      "img": "https://i.ibb.co/Bt9y1t0/Exterminator.png"
+    },
+    {
+      "id": "16",
+      "name": "Locksmith",
+      "img": "https://i.ibb.co/hHRmjQx/Locksmith.png"
+    },
+    {
+      "id": "17",
+      "name": "Mover",
+      "img": "https://i.ibb.co/0m8qyvZ/Mover.png"
+    },
+    {
+      "id": "18",
+      "name": "Carpet Cleaner",
+      "img": "https://i.ibb.co/7nL7JNd/Carpet-Cleaner.png"
+    },
+    {
+      "id": "19",
+      "name": "Window Cleaner",
+      "img": "https://i.ibb.co/kQwHtNy/Window-Cleaner.png"
+    },
+    {
+      "id": "20",
+      "name": "Appliance Repair ",
+      "img": "https://i.ibb.co/wNLF3Mk/Appliance-Repair.png"
+    }
+  ]

@@ -1,0 +1,32 @@
+[
+   
+    {
+      "role": "admin",
+      "menu": "customer",
+      "haveadd": true,
+      "haveview": true,
+      "haveedit": true,
+      "havedelete": true,
+      "id": "b1b7"
+    },
+    {
+      "role": "user",
+      "menu": "customer",
+      "haveadd": false,
+      "haveview": false,
+      "haveedit": false,
+      "havedelete": false,
+      "id": "575a"
+    },
+    {
+      "role": "company",
+      "menu": "customer",
+      "haveadd": false,
+      "haveview": true,
+      "haveedit": false,
+      "havedelete": false,
+      "id": "f7b3"
+    }
+  
+
+]
