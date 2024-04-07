@@ -1,5 +1,5 @@
-[
-   
+{
+  "roleaccess": [
     {
       "role": "admin",
       "menu": "customer",
@@ -27,6 +27,5 @@
       "havedelete": false,
       "id": "f7b3"
     }
-  
-
-]
+  ]
+}
